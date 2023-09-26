@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "com.react.config.ApplicationProperties",
+      "sourceType": "com.react.config.ApplicationProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
